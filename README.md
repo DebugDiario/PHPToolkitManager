@@ -47,10 +47,12 @@
 ## Como Usar
 
 1. **Baixar o arquivo executável**  
-   Baixe o arquivo `php_toolkit_manager_v2.0.exe` disponibilizado.
+   Baixe o arquivo executável da versão 2.0 através do link abaixo:
+
+   [Baixar PHP Toolkit Manager v2.0](https://www.mediafire.com/file/eqdscncmgc3ntzz/PHPToolkitManagerV2.exe/file)
 
 2. **Executar o programa**  
-   Clique duas vezes no arquivo `php_toolkit_manager_v2.0.exe` para iniciar o programa.
+   Clique duas vezes no arquivo `PHPToolkitManagerV2.exe` para iniciar o programa.
 
 3. **Escolha um comando no menu**  
    O programa exibe um menu de opções na linha de comando. Digite o comando desejado para realizar a ação.
